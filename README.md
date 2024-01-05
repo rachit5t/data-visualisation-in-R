@@ -9,6 +9,9 @@ In this project we are using r to perform analysis on an employee attrition data
 ### Termination in relation to time
 ![image](https://github.com/rachit5t/School-Site/assets/117898868/72862bf6-1a47-4a5f-bf91-255dbe1a65b4)
 
+## What Framework and language is used?
+R lanaguage is used and R studio is used as IDE.
+
 ## How to run the project?
 - git clone
 - install R studio
