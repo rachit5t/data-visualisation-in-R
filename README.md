@@ -16,4 +16,4 @@ R lanaguage is used and R studio is used as IDE.
 - git clone
 - install R studio
 - select certain secion of code (library including part, import data and preprocessing code) and run
-- select certain visulization code (denoted by comments), run and get result 
+- select certain visulization code (denoted by comments),  run and get result 
